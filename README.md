@@ -11,5 +11,5 @@
 - Extract Selenium Server zip to C:/Selenium folder.
 
 ## Run Tests:
-- Launch Eclipse IDE and open project IgniteTestAutomation.
+- Launch Eclipse IDE and open project code from source control.
 - Run the project by selecting "Automation" configuration.
