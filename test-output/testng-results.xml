@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-09T18:29:34 GMT" name="Default suite" finished-at="2022-11-09T18:29:38 GMT" duration-ms="4372">
+    <groups>
+    </groups>
+    <test started-at="2022-11-09T18:29:34 GMT" name="Default test" finished-at="2022-11-09T18:29:38 GMT" duration-ms="4372">
+      <class name="IgniteTest.RegUIScript">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:IgniteTest.RegUIScript@3c419631]" started-at="2022-11-09T18:29:27 GMT" name="SetUp" finished-at="2022-11-09T18:29:34 GMT" duration-ms="6284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="ValidateCompleteForm()[pri:0, instance:IgniteTest.RegUIScript@3c419631]" started-at="2022-11-09T18:29:34 GMT" name="ValidateCompleteForm" finished-at="2022-11-09T18:29:38 GMT" duration-ms="4309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCompleteForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:IgniteTest.RegUIScript@3c419631]" started-at="2022-11-09T18:29:38 GMT" name="tearDown" finished-at="2022-11-09T18:29:38 GMT" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- IgniteTest.RegUIScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
